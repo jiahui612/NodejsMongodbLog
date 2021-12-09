@@ -13,5 +13,8 @@
   ],
   "author": "jiahui",
   "license": "GNU",
-  "git repository":"https://github.com/jiahui612/NodejsMongodbLog"
+  "git repository": "https://github.com/jiahui612/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
